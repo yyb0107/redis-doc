@@ -205,6 +205,15 @@
     "recommended": true,
     "active": true
   },
+  {
+    "name": "Yedis",
+    "language": "Java",
+    "repository": "https://github.com/xetorthio/Yedis",
+    "description": "",
+    "authors": ["bingo"],
+    "recommended": true,
+    "active": true
+},
 
   {
     "name": "Jedipus",
